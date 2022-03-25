@@ -55,7 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-jenkin-docker</finalName>
+		<!-- <finalName>spring-boot-jenkin-docker</finalName> -->
 	</build>
 
 </project>
